@@ -1,0 +1,100 @@
+.ant-menu-vertical > .ant-menu-item, .ant-menu-vertical-left > .ant-menu-item, .ant-menu-vertical-right > .ant-menu-item, .ant-menu-inline > .ant-menu-item, .ant-menu-vertical > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-vertical-left > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-vertical-right > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title {
+
+    line-height: 64px;
+}
+.header-control{
+background-color: rgba(205, 208, 227, 0.2);
+}
+.collapsed2{
+  width: 200px;
+}
+.anticon[tabindex] {
+    margin-left: 32px;
+}
+.ant-layout-header {
+  padding: 0px;
+    width: 100%;
+
+}
+.ant-menu-item-selected a, .ant-menu-item-selected a:hover {
+    color: #6f42c1;
+}
+
+.ant-menu-inline-collapsed .anticon {
+    margin-left: 32px;
+}
+.ant-layout-sider {
+  background-color: white;
+}
+
+span{
+  font-size: 15px;
+}
+h1{
+font-size: 25px;
+  padding-left: 10px;
+
+}
+
+.ant-layout-header {
+    background-color: white;
+}
+
+.cell{
+min-height: 50px;
+line-height: 50px;
+padding-left: 20px;
+  border-bottom: 1px solid rgba(221, 223, 236, 0.8);
+}
+.ant-btn {
+  margin: 5px;
+    height: 30px;
+    background: rgba(205, 208, 227, 0.08);
+    border: 1px solid rgba(221, 223, 236, 0.8);
+}
+.collapsed1{
+  width: 100px;
+}
+.menu2{
+  width: 200px;
+}
+.menu1{
+  width: 100px;
+}
+
+
+.ant-menu-vertical .ant-menu-item:not(:last-child), .ant-menu-vertical-left .ant-menu-item:not(:last-child), .ant-menu-vertical-right .ant-menu-item:not(:last-child), .ant-menu-inline .ant-menu-item:not(:last-child) {
+    height: 60px;
+}
+.sidebar{
+  width: 100%;
+}
+.header{
+display: inline-flex;
+  width: 100%;
+}
+.form-control{
+  line-height: 85px;
+  margin-top: 13px;
+      float: right;
+    height: 40px;
+    width: 400px;
+    border-radius: 25px;
+     border: 1px solid rgba(221, 223, 236, 0.8);
+}
+.right-header{
+  width: 85%;
+}
+.home{
+  width: 100%;
+  padding: 0px 0px 0px 10px;
+      background-color: rgba(205, 208, 227, 0.2);
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background: rgb(247, 248, 249);
+    border-left: none;
+    color: #6f42c1;
+}
+.ant-menu-inline .ant-menu-item::after {
+   
+    border-right: none;}

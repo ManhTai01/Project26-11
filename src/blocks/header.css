@@ -1,0 +1,38 @@
+.content{
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 65px;
+}
+.image{
+    line-height: 64px;
+    width: 200px;
+    float : left;
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title {
+padding: 0px;
+height: 60px;
+line-height: 60px;
+    font-size: 17px;
+}
+.logout{
+    padding: 0px;
+height: 60px;
+line-height: 60px;
+    font-size: 17px;    
+}
+.right-content{
+    float: right;
+    display: flex;
+}
+.icon-header{
+    line-height: 80px;
+    text-align: center;
+    width: 100px;
+    border-left:1px solid rgba(221, 223, 236, 0.8);
+}
+.anticon svg {
+font-size: 25px;
+}
+.ant-btn {
+    border: 0px;
+}
